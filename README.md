@@ -1,1 +1,3 @@
-# dependabot-demo
+# dependabot_demo
+
+A new Flutter project.
